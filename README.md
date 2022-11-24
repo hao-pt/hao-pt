@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working as AI Engineer @ VinAI Research
+- 🔭 I’m currently working as AI Resident @ VinAI Research
 - 🌱 I actively embrace the healthy curiosity toward new problems and technologies in AI world
 - 💬 I am opened to share and discuss with others
 - 📫 How to reach me: [tienhaophung@gmail.com](tienhaophung@gmail.com)
