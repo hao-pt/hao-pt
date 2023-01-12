@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 💬 I am opened to share and discuss with others
 - 📫 How to reach me: [tienhaophung@gmail.com](tienhaophung@gmail.com)
 
-[![Hao's GitHub stats](https://github-readme-stats.vercel.app/api?username=v-haopt12)](https://github.com/anuraghazra/github-readme-stats)
+[![Hao's GitHub stats](https://github-readme-stats.vercel.app/api?username=hao-pt)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](tienhaophung@gmail.com)
