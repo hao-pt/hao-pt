@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 [![Hao's GitHub stats](https://github-readme-stats.vercel.app/api?username=hao-pt)](https://github.com/anuraghazra/github-readme-stats)
 ---
 [![Website](https://img.shields.io/badge/hao--pt%40github.io-website-green?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://hao-pt.github.io/)
+[![Google Scholar Badge](https://img.shields.io/badge/google-scholar-skyblue?style=for-the-badge&logo=googlescholar&color=skyblue&link=https%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3DKxSdvGoAAAAJ)](https://scholar.google.com/citations?user=KxSdvGoAAAAJ)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tienhaophung@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tienhaophung)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tienhaophung/)
