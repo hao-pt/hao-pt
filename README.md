@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working as AI Resident @ VinAI Research
-- 🌱 I actively embrace the healthy curiosity toward new problems and technologies in AI world
-- 💬 I am opened to share and discuss with others
+- 🔭 I’m an incoming PhD student @Cornell and currently working as AI Resident @ VinAI Research
+- 🌱 My research interests are mainly in Computer Vision and Deep Learning, particularly in diffusion model
+- 💬 I am open to share and discuss with others
 - 📫 How to reach me: [tienhaophung@gmail.com](tienhaophung@gmail.com)
 
 [![Hao's GitHub stats](https://github-readme-stats.vercel.app/api?username=hao-pt)](https://github.com/anuraghazra/github-readme-stats)
