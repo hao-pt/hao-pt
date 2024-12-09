@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m an incoming PhD student @Cornell and currently working as AI Resident @ VinAI Research
+- 🔭 I’m currently a PhD student @ Cornell and ex-AI Resident @ VinAI Research
 - 🌱 My research interests are mainly in Computer Vision and Deep Learning, particularly in diffusion model
 - 💬 I am open to share and discuss with others
 - 📫 How to reach me: [tienhaophung@gmail.com](tienhaophung@gmail.com)
